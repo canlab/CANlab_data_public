@@ -1,0 +1,5 @@
+EP_Subject: 19
+EP_session: 3
+empathy_Subject: 019
+Experimenter: ll
+Subject	TrialNum	Stimulusbl	Stimulusbias	Intensitybl	Intensitybias	Genderbl	Genderbias	VASratingbl	VASratingbias	RTVASratingbl	RTVASratingbias	Stimuluslearn	Identity

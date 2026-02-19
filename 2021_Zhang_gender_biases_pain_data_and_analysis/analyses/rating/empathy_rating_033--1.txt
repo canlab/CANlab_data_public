@@ -1,0 +1,41 @@
+EP_Subject: 33
+EP_session: 1
+empathy_Subject: 033
+Experimenter: ll
+Subject	TrialNum	Stimulusbl	Stimulusbias	Intensitybl	Intensitybias	Genderbl	Genderbias	VASratingbl	VASratingbias	RTVASratingbl	RTVASratingbias	Stimuluslearn	Identity
+033	1	Stimuli\Videoclips\ll042t1aaaff_H	null	H	null	Female	null	20	null	939	null	null	null
+033	2	Stimuli\Videoclips\ll042t1aaaff_M	null	M	null	Female	null	0	null	729	null	null	null
+033	3	Stimuli\Videoclips\ll042t1aeunaff_L	null	L	null	Female	null	0	null	799	null	null	null
+033	4	Stimuli\Videoclips\bn080t1aaaff_M	null	M	null	Female	null	5	null	1116	null	null	null
+033	5	Stimuli\Videoclips\bn080t1aeunaff_H	null	H	null	Female	null	36	null	1509	null	null	null
+033	6	Stimuli\Videoclips\bn080t1afunaff_L	null	L	null	Female	null	0	null	728	null	null	null
+033	7	Stimuli\Videoclips\mn106t1aaaff_M	null	M	null	Female	null	3	null	1154	null	null	null
+033	8	Stimuli\Videoclips\mn106t1aeaff_L	null	L	null	Female	null	0	null	625	null	null	null
+033	9	Stimuli\Videoclips\mn106t1afaff_H1	null	H	null	Female	null	21	null	1284	null	null	null
+033	10	Stimuli\Videoclips\hs107t1afaff_H	null	H	null	Female	null	34	null	803	null	null	null
+033	11	Stimuli\Videoclips\hs107t1afunaff_M	null	M	null	Female	null	6	null	936	null	null	null
+033	12	Stimuli\Videoclips\hs107t2aeunaff_L	null	L	null	Female	null	0	null	611	null	null	null
+033	13	Stimuli\Videoclips\ht108t1aaunaff_L	null	L	null	Female	null	0	null	638	null	null	null
+033	14	Stimuli\Videoclips\ht108t1aeaff_H	null	H	null	Female	null	14	null	996	null	null	null
+033	15	Stimuli\Videoclips\ht108t1afaff_M1	null	M	null	Female	null	3	null	1013	null	null	null
+033	16	Stimuli\Videoclips\dn124t1aaaff_M	null	M	null	Female	null	0	null	1058	null	null	null
+033	17	Stimuli\Videoclips\dn124t1afaff_L	null	L	null	Female	null	1	null	1630	null	null	null
+033	18	Stimuli\Videoclips\dn124t1aiaff_H1	null	H	null	Female	null	16	null	1038	null	null	null
+033	19	Stimuli\Videoclips\dr052t1aeaff_M	null	M	null	Male	null	13	null	1103	null	null	null
+033	20	Stimuli\Videoclips\dr052t1afaff_L	null	L	null	Male	null	18	null	1718	null	null	null
+033	21	Stimuli\Videoclips\dr052t1aiaff_H	null	H	null	Male	null	35	null	868	null	null	null
+033	22	Stimuli\Videoclips\ak064t1aaaff_H	null	H	null	Male	null	16	null	1242	null	null	null
+033	23	Stimuli\Videoclips\ak064t1aeunaff_M	null	M	null	Male	null	7	null	1128	null	null	null
+033	24	Stimuli\Videoclips\ak064t1afunaff_L	null	L	null	Male	null	0	null	865	null	null	null
+033	25	Stimuli\Videoclips\bg096t1aaaff_M	null	M	null	Male	null	18	null	1134	null	null	null
+033	26	Stimuli\Videoclips\bg096t1aeaff_H	null	H	null	Male	null	25	null	780	null	null	null
+033	27	Stimuli\Videoclips\bg096t2aaunaff_L	null	L	null	Male	null	0	null	728	null	null	null
+033	28	Stimuli\Videoclips\jk103t1aaunaff_L	null	L	null	Male	null	0	null	1019	null	null	null
+033	29	Stimuli\Videoclips\jk103t1aeaff_M	null	M	null	Male	null	3	null	1316	null	null	null
+033	30	Stimuli\Videoclips\jk103t2aaaff_H	null	H	null	Male	null	24	null	2751	null	null	null
+033	31	Stimuli\Videoclips\ib109t1aeaff_H	null	H	null	Male	null	5	null	1592	null	null	null
+033	32	Stimuli\Videoclips\ib109t1aeaff_M	null	M	null	Male	null	0	null	966	null	null	null
+033	33	Stimuli\Videoclips\ib109t1aeunaff_L	null	L	null	Male	null	0	null	1303	null	null	null
+033	34	Stimuli\Videoclips\kz120t1aaaff_H	null	H	null	Male	null	3	null	1568	null	null	null
+033	35	Stimuli\Videoclips\kz120t1aeaff_M	null	M	null	Male	null	5	null	1507	null	null	null
+033	36	Stimuli\Videoclips\kz120t1afunaff_L	null	L	null	Male	null	7	null	1155	null	null	null

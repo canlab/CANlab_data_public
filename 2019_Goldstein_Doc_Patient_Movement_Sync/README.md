@@ -1,0 +1,1 @@
+MEA_doc_pat_final.R is a pipeline of all the analysis. The data saved in the "data" folder: 1) combined2_1 includes time series data of clinicians' and patients' movements for every simulated interaction; 2) agg_all_data_100219.RData includes self-reported data (surveys + pain reports).

@@ -1,0 +1,72 @@
+Experiment: SCEBL
+
+226 subjects
+Missing values coded with: 
+______________________________________________________________
+Subject Level
+
+Description:
+	id: Unique text identifier for each subject (e.g., subject code)
+	names: cell array containing names for each variable in .data and .textdata.
+	type: cell array identifying variable type; used to index .data or .textdata.
+	      Acceptable values are either 'text' or 'numeric'
+	units: cell array identifying units used for each variable (e.g. seconds, count, text)
+	descrip: cell array providing detailed description of each variable in .names
+	data: cell array, one cell per subject, with rectangular data matrix.
+	      Each row is one subject, each column a variable, with names in .names
+	      Numeric data only, text data is assigned as NaN
+	textdata: cell array, one cell per subject, with cell matrix.
+	      Each row is one subject, each column a variable, with names in .names
+	      Text data only, numeric data is assigned as ''
+Names:
+	CBCondition	Counterbalancing condition, not really important across studies
+	InstructionVersion	Version of SCEBL, different version have different experimental factors, instructions, and or outcome measures
+	Experimenter	Experimenter name or inititals
+	Gender (1=M, 2=F)	Sex, 1=M, 2=F
+	Age	Age in years
+	Ethnicity	Ethnicity as self-reported
+	Hand	Handedness (1=R)
+	Severe_Pain	Fear of Pain Scale, Severe Pain subscale
+	Minor_Pain	Fear of Pain Scale, Minor Pain subscale
+	Medical_Pain	Fear of Pain Scale, Medical Pain subscale
+	STAI_Trait	STAI trait anxiety
+	BAS_Drive	Behavioral Activation Scale, Drive subscale
+	BAS_FunSeeking	Behavioral Activation Scale, Fun Seeking subscale
+	BAS_RewardResponsiveness	Behavioral Activation Scale, Reward Responsiveness subscale
+	BIS	Behavioral Inhibition Scale
+	LOT_R	LOT-R Optimism scale
+	PerspectiveTaking	Interpersonal Reactivity Index, Perspective Taking subscale
+	FantasyScale	Interpersonal Reactivity Index, Fantasy subscale
+	EmpathicConcern	Interpersonal Reactivity Index, Empathic Concern subscale
+	PersonalDistress	Interpersonal Reactivity Index, Personal Distress subscale
+	SocialDesirability	Social Desirability scale (as in canlab database)
+	STAI_State	STAI state anxiety
+	PCS	Pain Catastrophizing Scale
+	PANASPoS	PANAS positive affect
+	PANASNeg	PANAS negative affect
+	Debrief_Cue_Awareness	
+	Debrief_Correcforcedchoice	
+	Debrief_Usefulness_Social (cm)	
+	Debrief_Usefulness_Cues (cm)	
+	Useful SOC normed	
+	Useful CUES normed	
+	SocialInfluenceEffectonPain (med temp)	Social influence effect on pain rating (medium temp), first-level beta weight
+	CSEffectonPain  (med temp)	Social influence effect on pain rating (medium temp), first-level beta weight
+	ExpectancyEffectonPain  (med temp)	Conditioned cue (CS) effect on pain rating (medium temp), first-level beta weight
+______________________________________________________________
+Event Level
+
+Description:
+	names: cell array containing names for each variable in .data and .textdata.
+	type: cell array identifying variable type; used to index .data or .textdata.
+	      Acceptable values are either 'text' or 'numeric'
+	units: cell array identifying units used for each variable (e.g. seconds, count, text)
+	descrip: cell array providing detailed description of each variable in .names
+	data: cell array, one cell per subject, with rectangular data matrix.
+	      Each row is one event, each column a variable, with names in .names
+	      Numeric .type data only, text .type data is assigned as NaN
+	textdata: cell array, one cell per subject, with cell matrix.
+	      Each row is one event, each column a variable, with names in .names
+	      Text .type data only, numeric .type data is assigned as ''
+Names:
+______________________________________________________________

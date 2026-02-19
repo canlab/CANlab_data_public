@@ -1,0 +1,5 @@
+EP_Subject: 22
+EP_session: 2
+empathy_Subject: 022
+Experimenter: ll
+Subject	TrialNum	Stimulusbl	Stimulusbias	CursorTime	CursorRating
