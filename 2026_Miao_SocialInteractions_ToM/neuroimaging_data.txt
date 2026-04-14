@@ -1,0 +1,7 @@
+Locations of neuroimaging data
+1. Raw data: /dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop/dartmouth/sub-0xxxx/ses-02/func
+2. Preprocessed data:  /dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop_data/derivatives/fmriprep/results/fmriprep/sub-0xxxx/ses-02/func 
+3. First-level beta maps: https://doi.org/10.5281/zenodo.18316150
+4. Second-level t maps and Bayes Factor classification maps:
+(1) https://neurovault.org/collections/22786/
+(2) 
